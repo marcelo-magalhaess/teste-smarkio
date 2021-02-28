@@ -8,6 +8,6 @@ Repositório criado para armazenar o teste para a vaga de estagiário em DataSci
 
 A solução do problema foi desenvolvida pela plataforma Google Colab, portanto, para executa-la, basta clicar no notebook presente neste repositório e clicar no link para abrir no google colab, ou apenas clicar no seguinte link: [Notebook de Solução](https://colab.research.google.com/drive/1jbg4bpZVrWfa-G9iLdbcTSxrmXO6Mbsz?usp=sharing).
 
-Quando abrir o notebook, basta executar o comando CTRL+F9 e as linhas de comando serão executadas e todas saídas seram apresentadas.
+Quando abrir o notebook, basta executar cada linha individualmente, apertando o simbolo de play e as linhas de comando serão executadas com todas saídas sendo apresentadas.
 
 Além disso, no pdf também em anexo neste repositório, está o notebook exportado com todas saídas prontas.
